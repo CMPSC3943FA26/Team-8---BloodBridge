@@ -64,16 +64,16 @@ after Sprint 1 based on how many points actually get done.
 
 The whole backlog fits the semester only if velocity holds at 25. Sprint 5 is
 shorter because of Thanksgiving, so Low priority stories are the first to be cut
-if we fall behind. High priority stories (21 stories, 63 points) are the minimum
+if we fall behind. High priority stories (21 stories, 65 points) are the minimum
 for a working final demo and take about 2.5 sprints on their own.
 
 Points by priority:
 
 | Priority | Stories | Points |
 |----------|--------:|-------:|
-| High | 21 | 63 |
-| Medium | 28 | 68 |
-| Low | 11 | 25 |
+| High | 21 | 65 |
+| Medium | 28 | 64 |
+| Low | 11 | 27 |
 
 ## Sprint 1 candidates (Ready column)
 
